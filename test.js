@@ -1,5 +1,2 @@
-auto.waitFor();
-log("尝试开启");
-auto.waitFor();
-log("已经开启");
-alert("OKhhhh");
+wisp1FgsNOu/rx1Daf9hU2EzJqkU0tNG4WIO4Z1Heny+wqthmNCYcWK/oLNU+vho8W9oyJP5PbxccHl7a
+JxZf7eoR12Hn5/v1gokDzbmMmzNDZ1KHF5XkjexzG+wckA/Zlxx2JKjNiRyn1lHrUJa+Rh8TRA==
